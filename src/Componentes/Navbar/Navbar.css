@@ -4,4 +4,10 @@
 
 .nav-link {
     color: white
+
+}
+
+.nav-link:hover{
+    font-weight: bold;
+    color: whitesmoke;
 }
